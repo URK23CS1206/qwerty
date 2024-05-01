@@ -1,1 +1,9 @@
-filename
+2nd exp
+git config --global user.name "URK23CS1206"
+git config --global user.email "sahanas23@karunya.edu.in"
+git config --list 
+git clone https://github.com/URK23CS1206/qwerty.git
+cd qwerty
+git add .
+git commit -m "save changes"
+git push origin main
