@@ -7,3 +7,4 @@ cd qwerty
 git add .
 git commit -m "save changes"
 git push origin main
+git pull origin main
